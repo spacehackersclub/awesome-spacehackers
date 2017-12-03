@@ -35,6 +35,14 @@ Sources of public data.
 
 - [Open NASA: Featuring what you and your fellow Earthlings have done with Open Data through NASA Challenges.](https://open.nasa.gov/innovation-space/)
 
+## Jobs
+
+Ready to turn that sidework into your fulltime job? Try applying to some of-  the places below!
+
+- [Jet Propulsion Labratory (JPL) Opportunities](https://www.jpl.nasa.gov/opportunities/)
+- [Blue Origins Careers](https://www.blueorigin.com/careers)
+- [SpaceX Careers](http://www.spacex.com/careers)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
