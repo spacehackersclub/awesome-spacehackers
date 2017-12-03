@@ -5,25 +5,35 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Data Sources](#datasources)
+- [Project Ideas](#projectideas)
 
+## Data Sources
 
-## Section
+Sources of public data.
 
-About this section. Optional. Keep this short and focus on the list.
+- [NASA Open Data](https://open.nasa.gov/open-data/)
+- [NASA Exoplanet Archive](http://exoplanetarchive.ipac.caltech.edu/)
+- [Sloan Digital Sky Survey (SDSS) - Mapping the Universe](http://www.sdss.org/)
+- [NSSDC (NASA) data of 550 space spacecraft](http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html)
+- [UFO Reports](http://www.nuforc.org/webreports.html)
+- [Every Space Launch](http://planet4589.org/space/log/launchlog.txt)
+- [The Planetary Data System](https://pds.jpl.nasa.gov/)
+- [Kepler Mission Data](https://archive.stsci.edu/kepler/published_planets/search.php)
+- [Exoplanet Encyclopedia](http://exoplanet.eu/)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Data Formats
 
+- [FITS](https://idlastro.gsfc.nasa.gov/fitsio.html)
 
-## Another Section
+### Programming Environments
 
-### Subsection
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- [Engineering Tools Used at NASA](https://www.nasa.gov/centers/johnson/engineering/tools/index.html)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Project Ideas
 
+- [Open NASA: Featuring what you and your fellow Earthlings have done with Open Data through NASA Challenges.](https://open.nasa.gov/innovation-space/)
 
 ## Contribute
 
