@@ -21,6 +21,7 @@ Sources of public data.
 - [The Planetary Data System](https://pds.jpl.nasa.gov/)
 - [Kepler Mission Data](https://archive.stsci.edu/kepler/published_planets/search.php)
 - [Exoplanet Encyclopedia](http://exoplanet.eu/)
+- [Asterank is a scientific and economic database of over 600,000 asteroids.](http://www.asterank.com/)
 
 ### Data Formats
 
@@ -30,6 +31,11 @@ Sources of public data.
 
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
 - [Engineering Tools Used at NASA](https://www.nasa.gov/centers/johnson/engineering/tools/index.html)
+
+## Projects to Get Involved In
+
+- [SatNOGS is an open source ground station and network, optimized for modularity, built from readily available and affordable tools and resources.](https://satnogs.org/)
+- [Astrokit - help modify the Asterank engine to be a better general-purpose framework for 3D space visualizations](https://github.com/typpo/astrokit)
 
 ## Project Ideas
 
