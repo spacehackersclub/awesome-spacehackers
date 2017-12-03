@@ -41,6 +41,10 @@ Sources of public data.
 
 - [Open NASA: Featuring what you and your fellow Earthlings have done with Open Data through NASA Challenges.](https://open.nasa.gov/innovation-space/)
 
+## Cool Projects
+
+-[Stuff in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL.](http://stuffin.space/)
+
 ## Jobs
 
 Ready to turn that sidework into your fulltime job? Try applying to some of-  the places below!
