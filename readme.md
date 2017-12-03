@@ -43,7 +43,7 @@ Sources of public data.
 
 ## Cool Projects
 
--[Stuff in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL.](http://stuffin.space/)
+- [Stuff in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL.](http://stuffin.space/)
 
 ## Jobs
 
