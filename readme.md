@@ -46,7 +46,7 @@ Sources of public data.
 
 ## Jobs
 
-Ready to turn that sidework into your fulltime job? Try applying to some of-  the places below!
+Ready to turn that sidework into your fulltime job? Try applying to some of the places below!
 
 - [Jet Propulsion Labratory (JPL) Opportunities](https://www.jpl.nasa.gov/opportunities/)
 - [Blue Origins Careers](https://www.blueorigin.com/careers)
