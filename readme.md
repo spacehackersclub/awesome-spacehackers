@@ -1,7 +1,6 @@
-# Awesome Space Hackers 🚀 🛰 🌎 👩🏽‍🚀 👽
+# Awesome Space Hackers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of aerospace/space related data and code resources for a community of independent hackers dedicated to furthering humanity's knowledge of the universe through open collaboration.
-
 
 ## Contents
 
@@ -12,16 +11,16 @@
 
 Sources of public data.
 
-- [NASA Open Data](https://open.nasa.gov/open-data/)
-- [NASA Exoplanet Archive](http://exoplanetarchive.ipac.caltech.edu/)
-- [Sloan Digital Sky Survey (SDSS) - Mapping the Universe](http://www.sdss.org/)
+- [NASA Open Data](https://open.nasa.gov/open-data)
+- [NASA Exoplanet Archive](http://exoplanetarchive.ipac.caltech.edu)
+- [Sloan Digital Sky Survey (SDSS) - Mapping the Universe](http://www.sdss.org)
 - [NSSDC (NASA) data of 550 space spacecraft](http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html)
 - [UFO Reports](http://www.nuforc.org/webreports.html)
 - [Every Space Launch](http://planet4589.org/space/log/launchlog.txt)
-- [The Planetary Data System](https://pds.jpl.nasa.gov/)
+- [The Planetary Data System](https://pds.jpl.nasa.gov)
 - [Kepler Mission Data](https://archive.stsci.edu/kepler/published_planets/search.php)
-- [Exoplanet Encyclopedia](http://exoplanet.eu/)
-- [Asterank is a scientific and economic database of over 600,000 asteroids.](http://www.asterank.com/)
+- [Exoplanet Encyclopedia](http://exoplanet.eu)
+- [Asterank is a scientific and economic database of over 600,000 asteroids.](http://www.asterank.com)
 
 ### Data Formats
 
@@ -34,16 +33,16 @@ Sources of public data.
 
 ## Projects to Get Involved In
 
-- [SatNOGS is an open source ground station and network, optimized for modularity, built from readily available and affordable tools and resources.](https://satnogs.org/)
+- [SatNOGS is an open source ground station and network, optimized for modularity, built from readily available and affordable tools and resources.](https://satnogs.org)
 - [Astrokit - help modify the Asterank engine to be a better general-purpose framework for 3D space visualizations](https://github.com/typpo/astrokit)
 
 ## Project Ideas
 
-- [Open NASA: Featuring what you and your fellow Earthlings have done with Open Data through NASA Challenges.](https://open.nasa.gov/innovation-space/)
+- [Open NASA: Featuring what you and your fellow Earthlings have done with Open Data through NASA Challenges.](https://open.nasa.gov/innovation-space)
 
 ## Cool Projects
 
-- [Stuff in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL.](http://stuffin.space/)
+- [Stuff in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL.](http://stuffin.space)
 
 ## Jobs
 
