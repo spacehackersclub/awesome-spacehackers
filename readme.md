@@ -52,6 +52,7 @@ Ready to turn that sidework into your fulltime job? Try applying to some of the 
 - [Jet Propulsion Labratory (JPL) Opportunities](https://www.jpl.nasa.gov/opportunities/)
 - [Blue Origins Careers](https://www.blueorigin.com/careers)
 - [SpaceX Careers](http://www.spacex.com/careers)
+- [Planet](https://www.planet.com/company/careers)
 
 ## Contribute
 
