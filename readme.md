@@ -5,7 +5,16 @@
 ## Contents
 
 - [Data Sources](#datasources)
+- [Open Source Code](#opensourcecode)
+- [Application Programming Interfaces](#applicationprogramminginterfaces)
+- [Data Formats](#dataformats)
+- [Programming Environments](#programmingenvironments)
+- [Projects to Get Involved In](#projectstogetinvolvedin)
 - [Project Ideas](#projectideas)
+- [Cool Projects](#coolprojects)
+- [Jobs](#jobs)
+- [Misc](#misc)
+- [Contribute](#contribute)
 
 ## Data Sources
 
@@ -21,6 +30,14 @@ Sources of public data.
 - [Kepler Mission Data](https://archive.stsci.edu/kepler/published_planets/search.php)
 - [Exoplanet Encyclopedia](http://exoplanet.eu)
 - [Asterank is a scientific and economic database of over 600,000 asteroids.](http://www.asterank.com)
+
+## Open Source Code
+
+- [Astrometry.net -- automatic recognition of astronomical images](https://github.com/dstndstn/astrometry.net)
+
+## Application Programming Interfaces (APIs)
+
+- [Astronomy.net API for Astronomical Images](http://astrometry.net/doc/net/api.html)
 
 ### Data Formats
 
@@ -54,10 +71,15 @@ Ready to turn that sidework into your fulltime job? Try applying to some of the 
 - [Planet](https://www.planet.com/company/careers)
 - [SpaceX](http://www.spacex.com/careers)
 
+## Misc
+
+- [Google Sky](http://www.google.com/sky)
+- [Google Moon](https://www.google.com/moon)
+- [Google Mars](https://www.google.com/mars)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
