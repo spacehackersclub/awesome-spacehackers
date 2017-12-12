@@ -6,7 +6,7 @@
 
 - [Data Sources](#data-sources)
 - [Open Source Code](#open-source-code)
-- [Application Programming Interfaces](#application-programming-interfaces)
+- [APIs](#apis)
 - [Data Formats](#data-formats)
 - [Programming Environments](#programming-environments)
 - [Projects to Get Involved In](#projects-to-ge-tinvolved-in)
@@ -35,7 +35,7 @@ Sources of public data.
 
 - [Astrometry.net -- automatic recognition of astronomical images](https://github.com/dstndstn/astrometry.net)
 
-## Application Programming Interfaces (APIs)
+## APIs
 
 - [Astronomy.net API for Astronomical Images](http://astrometry.net/doc/net/api.html)
 
