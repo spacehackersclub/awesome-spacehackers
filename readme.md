@@ -9,7 +9,7 @@
 - [APIs](#apis)
 - [Data Formats](#data-formats)
 - [Programming Environments](#programming-environments)
-- [Projects to Get Involved In](#projects-to-ge-tinvolved-in)
+- [Projects to Get Involved In](#projects-to-get-involved-in)
 - [Project Ideas](#project-ideas)
 - [Cool Projects](#cool-projects)
 - [Jobs](#jobs)
