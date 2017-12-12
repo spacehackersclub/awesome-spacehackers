@@ -8,12 +8,11 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- The entry is relevant to helping further knowledge of the universe, using web technologies
+- You've ran your change through [awesome-lint](https://github.com/sindresorhus/awesome-lint) to ensure it's formated correctly
+- You've checked that your link isn't already on the list
 
 Thank you for your suggestions!
-
 
 ## Updating your PR
 
