@@ -4,14 +4,14 @@
 
 ## Contents
 
-- [Data Sources](#datasources)
-- [Open Source Code](#opensourcecode)
-- [Application Programming Interfaces](#applicationprogramminginterfaces)
-- [Data Formats](#dataformats)
-- [Programming Environments](#programmingenvironments)
-- [Projects to Get Involved In](#projectstogetinvolvedin)
-- [Project Ideas](#projectideas)
-- [Cool Projects](#coolprojects)
+- [Data Sources](#data-sources)
+- [Open Source Code](#open-source-code)
+- [Application Programming Interfaces](#application-programming-interfaces)
+- [Data Formats](#data-formats)
+- [Programming Environments](#programming-environments)
+- [Projects to Get Involved In](#projects-to-ge-tinvolved-in)
+- [Project Ideas](#project-ideas)
+- [Cool Projects](#cool-projects)
 - [Jobs](#jobs)
 - [Misc](#misc)
 - [Contribute](#contribute)
