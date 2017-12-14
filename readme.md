@@ -65,7 +65,7 @@ Sources of public data.
 
 Ready to turn that sidework into your fulltime job? Try applying to some of the places below!
 
-- [Blue Origins](https://www.blueorigin.com/careers)
+- [Blue Origin](https://www.blueorigin.com/careers)
 - [Jet Propulsion Labratory](https://www.jpl.nasa.gov/opportunities/)
 - [NASA](https://nasajobs.nasa.gov)
 - [Planet](https://www.planet.com/company/careers)
